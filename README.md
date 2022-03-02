@@ -2,7 +2,7 @@
 
 ## 应B站上同学们要求在 win10 运行
 
-- 更新到 python 3.9.10
+- 更新到 python 3.9.10，请不要安装更高版本。
 - 更新到 yolov5 v6.1版。使用的权重文件可以在此下载：https://github.com/ultralytics/yolov5/releases/tag/v6.1
 - 更新到 CUDA 11.3+
 - 建议保留 Arial.ttf 文件，或在首次运行时由 yolov5 自动下载。
@@ -25,7 +25,7 @@ bilibili
 
 ## 运行环境
 
-- python 3.9.10+，pip 22.0.3+
+- python 3.9.10，pip 22.0.3+
 - pytorch 1.10.2+
 - pip3 install -r requirements.txt
 
