@@ -20,7 +20,7 @@
 
 bilibili
 
-[![bilibili](https://raw.githubusercontent.com/dyh/win10_yolov5_deepsort_counting/main/cover.png)](https://www.bilibili.com/video/BV14z4y127XX/ "bilibili")
+[![bilibili](https://raw.githubusercontent.com/dyh/win10_yolov5_deepsort_counting/main/cover.png)](https://www.bilibili.com/video/BV13Z4y1C7Dt/ "bilibili")
 
 
 ## 运行环境
